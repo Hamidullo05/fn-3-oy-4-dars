@@ -219,8 +219,41 @@ ul li a {
     color: #000;
 
 }
+.footer__container {
+    background-color: #000;
+    
+
+}
 .header__footer {
     display: flex;
     align-items: center;
-
+    gap: 400px;
+    padding-top: 75px;
+    padding-bottom: 36px;
+}
+.footer_text {
+    display: flex;
+    gap: 470px;
+    padding-bottom: 48px;
+}
+.footer_in {
+    width: 540px;
+}
+.of {
+    font-size: 15px;
+    font-weight: 400;
+    color: #FFF;
+    line-height: 25px;
+    margin-bottom: 56px;
+}
+.all {
+    font-size: 15px;
+    font-weight: 400;
+    color: #FFF;
+    line-height: 25px;
+}
+.footer_icon {
+    display: flex;
+    gap: 16px;
+    margin-top: 69px;
 }
